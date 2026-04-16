@@ -7,7 +7,7 @@ A lightweight dog ped emote menu for **QBCore / Qbox** FiveM servers. Allows pla
 ## Preview
 
 <!-- Replace with your actual screenshot -->
-![Menu Preview](https://i.imgur.com/PLACEHOLDER.png)
+![Menu Preview]https://imgur.com/qkreuV6
 
 ---
 
